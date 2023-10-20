@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **danar.devs@gmail.com**
 
-- ⚡ Fun fact **I'm a newbie**
+- ⚡ Fun fact **Never Gonna Give You Up, Never Gonna Let You Down!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
