@@ -1,4 +1,4 @@
-![MasterHead]([https://assets.mixkit.co/videos/10325/10325-thumb-720-0.jpg](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?cs=srgb&dl=pexels-pixabay-270404.jpg&fm=jpg))
+![MasterHead](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?cs=srgb&dl=pexels-pixabay-270404.jpg&fm=jpg)
 
 <h1 align="center">Hi 👋, I'm Danardi L.</h1>
 <h3 align="center">A passionate Programmer from Indonesia</h3>
