@@ -1,4 +1,4 @@
-![MasterHead](https://images.pexels.com/photos/270404/pexels-photo-270404.jpeg?cs=srgb&dl=pexels-pixabay-270404.jpg&fm=jpg)
+![MasterHead](https://d2rjvl4n5h2b61.cloudfront.net/media/images/Coding.2e16d0ba.fill-1280x350-c100.jpg)
 
 <h1 align="center">Hi 👋, I'm Danardi L.</h1>
 <h3 align="center">A passionate Programmer from Indonesia</h3>
