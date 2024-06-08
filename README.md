@@ -1,4 +1,4 @@
-![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmixkit.co%2Ffree-stock-video%2Fcomputer-code-running-on-a-screen-10325%2F&psig=AOvVaw26PVwwGsxk_Afaq6DDI_St&ust=1717921422395000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCR_JXKy4YDFQAAAAAdAAAAABAK))
+![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fmixkit.co%2Ffree-stock-video%2Fcomputer-code-running-on-a-screen-10325%2F&psig=AOvVaw26PVwwGsxk_Afaq6DDI_St&ust=1717921422395000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCR_JXKy4YDFQAAAAAdAAAAABAK)
 
 <h1 align="center">Hi 👋, I'm Danardi L.</h1>
 <h3 align="center">A passionate Programmer from Indonesia</h3>
