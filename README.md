@@ -5,9 +5,9 @@
 
 As a passionate full-stack developer and a dedicated student at an Indonesian institute, I’ve had the privilege of creating impactful digital experiences. Here’s a glimpse into my journey:
 
-🌐 Crafting Business Solutions: I’ve designed sleek websites that empower companies to thrive in the digital landscape.
-🎮 Game Enthusiast: Beyond code, I’ve delved into the world of game development. From delightful children’s games to nostalgic retro FPS.
-💼 Entrepreneurial Spirit: create my own business website.
+🌐 Crafting Business Solutions: I’ve designed sleek websites that empower companies to thrive in the digital landscape.<br>
+🎮 Game Enthusiast: Beyond code, I’ve delved into the world of game development. From delightful children’s games to nostalgic retro FPS.<br>
+💼 Entrepreneurial Spirit: create my own business website.<br>
 📱 Financial Innovation: I’ve also ventured into mobile app development, particularly in the finance sector. Building intuitive solutions for managing finances.
 
 ## 🌐Socials
