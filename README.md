@@ -20,8 +20,6 @@ As a passionate full-stack developer and a dedicated student at an Indonesian in
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Danardi-L&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Danardi-L&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Danardi-L&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Danardi-L&icon=5&color=6)](https://visitcount.itsvg.in)
