@@ -5,10 +5,9 @@
 
 As a passionate full-stack developer and a dedicated student at an Indonesian institute, I’ve had the privilege of creating impactful digital experiences. Here’s a glimpse into my journey:
 
-🌐 Crafting Business Solutions: I’ve designed sleek websites that empower companies to thrive in the digital landscape.<br>
+🌐 create my own business website.<br>
 🎮 Game Enthusiast: Beyond code, I’ve delved into the world of game development. From delightful children’s games to nostalgic retro FPS.<br>
-💼 Entrepreneurial Spirit: create my own business website.<br>
-📱 Financial Innovation: I’ve also ventured into mobile app development, particularly in the finance sector. Building intuitive solutions for managing finances.
+📱 I’ve also ventured into mobile app development, particularly in the finance sector. Building intuitive solutions for managing finances.
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/danardi_l) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/danardi-listyono) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://x.com/DanarDevs) 
